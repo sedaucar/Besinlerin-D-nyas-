@@ -1,0 +1,11 @@
+{
+	"name": "besinlerin_dunyasi",
+	"short_name": "besinlerin_dunyasi",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
